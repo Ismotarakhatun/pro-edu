@@ -1,0 +1,24 @@
+.banner img {
+    height: 500px;
+}
+
+.carousel-caption {
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.institute-left-side {
+    background: rgb(189, 231, 239);
+}
+
+.institute-right-side {
+    background: #F4FAFD;
+}
+.course-review p{
+    color: #777777;
+}
+.register{
+    background: #289BDE;
+}
+
+
